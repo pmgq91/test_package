@@ -7,6 +7,7 @@ setup(
     author_email='pmgq@hotmail.com',
     packages=['pmgq_test'],
     # install_requires=['numpy'],
+    version='0.1',
     license='PMGQ',
     description='An example of a python package from pre-existing code'
 )
